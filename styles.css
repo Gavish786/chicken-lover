@@ -1,0 +1,23 @@
+/**********************TAG SELECTORS************/
+h1{
+  background-color:#f05454; font-size: 75px;
+}
+body{
+  background-color:#16697a;
+}
+
+img{
+  background-color:#ffd5cd;
+}
+
+/*******************CLASS SELECTORS************/
+.Chicken {
+  background-color:#ffd5cd;
+}
+.meat {
+  background-color:#f3eac2;
+}
+/***********id SELECTORS******/
+#heading {
+  color: blue;
+}
